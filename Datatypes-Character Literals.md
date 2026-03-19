@@ -16,7 +16,8 @@ print(b)
 ```
 
 ## Output
-image
+<img width="349" height="206" alt="image" src="https://github.com/user-attachments/assets/92b3674a-9154-46e5-b016-06f6bc394dd8" />
+
 
 
 ## Result
